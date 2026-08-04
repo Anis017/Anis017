@@ -64,7 +64,7 @@
         <b>⛓️ Blockchain-</b>
       </a>
       <br/>
-      <sub>Système blockchain from scratch — Rust</sub>
+      <sub>Système blockchain from scratch  Rust</sub>
     </td>
   </tr>
   <tr>
