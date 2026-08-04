@@ -11,7 +11,7 @@
 
 </div>
 
-<h3 align="center">🏗️ Anis Boudjadja — <code>@Anis017</code></h3>
+<h3 align="center">🏗️ Anis Boudjadja  <code>@Anis017</code></h3>
 
 <p align="center">
   <em>Étudiant en informatique passionné par la cryptographie, l'IA et les systèmes distribués.</em>
