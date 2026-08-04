@@ -31,7 +31,7 @@
 - 🤖 Je m'intéresse à l'**IA & la programmation symbolique**
 - ⛓️ Je bidouille avec la **blockchain** et les systèmes décentralisés
 - 🧠 Toujours en train d'apprendre un nouveau langage ou paradigme
-- 📍 Basé en France — ouvert aux collabs et aux projets qui sortent de l'ordinaire
+- 📍 Basé en France  ouvert aux collabs et aux projets qui sortent de l'ordinaire
 
 <br/>
 
@@ -57,7 +57,7 @@
         <b>🔐 Chiffrage-RSA-</b>
       </a>
       <br/>
-      <sub>Implémentation d'une cryptographie de base — Python</sub>
+      <sub>Implémentation d'une cryptographie de base  Python</sub>
     </td>
     <td align="center" width="260">
       <a href="https://github.com/Anis017/Blockchain-">
@@ -73,14 +73,14 @@
         <b>🏥 Hospital-Management-App-</b>
       </a>
       <br/>
-      <sub>Gestion hospitalière — C++</sub>
+      <sub>Gestion hospitalière  C++</sub>
     </td>
     <td align="center" width="260">
       <a href="https://github.com/Anis017/Intelligence-artificielle-et-programmation-symbolique">
         <b>🧠 IA & Programmation Symbolique</b>
       </a>
       <br/>
-      <sub>Exploration d'IA symbolique — JavaScript</sub>
+      <sub>Exploration d'IA symbolique  JavaScript</sub>
     </td>
   </tr>
 </table>
